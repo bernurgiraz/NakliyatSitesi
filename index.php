@@ -73,6 +73,8 @@ $sinif=new kurumsal;
 
 </section> 
 
+<!--yenilik-->
+
 
 <!-- header -->
 
