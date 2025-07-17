@@ -10,6 +10,11 @@ $yonetim->kontrolet("ind");
 
 
 
+
+
+
+
+
 ?>
 
 
