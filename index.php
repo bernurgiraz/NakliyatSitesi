@@ -2,10 +2,18 @@
 include_once("lib/fonksiyon.php");
 
 $sinif=new kurumsal;
-
+<!-- : -->
 
 
 ?>
+
+
+
+
+
+
+
+
 
 
 
@@ -344,3 +352,4 @@ $sinif=new kurumsal;
 
 </body>
 </html>
+<!-- :) -->
