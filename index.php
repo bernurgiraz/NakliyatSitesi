@@ -2,10 +2,18 @@
 include_once("lib/fonksiyon.php");
 
 $sinif=new kurumsal;
-
+<!-- : -->
 
 
 ?>
+
+
+
+
+
+
+
+
 
 
 
@@ -23,6 +31,16 @@ $sinif=new kurumsal;
 <meta name="author" content="<?php echo $sinif->metaout; ?>" />
 <meta name="owner" content="<?php echo $sinif->metaown; ?>" />
 <meta name="copyright" content="<?php echo $sinif->metacopy; ?>" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -334,3 +352,4 @@ $sinif=new kurumsal;
 
 </body>
 </html>
+<!-- :) -->
