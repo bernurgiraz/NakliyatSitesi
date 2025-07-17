@@ -2,7 +2,7 @@
 include_once("lib/fonksiyon.php");
 
 $sinif=new kurumsal;
-<!-- : -->
+
 
 
 ?>
@@ -112,7 +112,7 @@ $sinif=new kurumsal;
         
         <nav id="nav-menu-container">
         <ul class="nav-menu">        
-        <li class="menu-active"><a href="#body">Anasayfa</a></li>
+        <li class="menu-active"><a href="#body">giriş</a></li>
         <li><a href="#hakkimizda">Hakkımızda</a></li>
         <li><a href="#hizmetler">Hizmetlerimiz</a></li>
         <li><a href="#filo">Araç Filomuz</a></li>
