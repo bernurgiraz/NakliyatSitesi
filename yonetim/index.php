@@ -9,6 +9,8 @@ $yonetim->kontrolet("ind");
 
 
 
+//imdat
+
 
 ?>
 
