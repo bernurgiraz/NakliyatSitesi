@@ -2,14 +2,11 @@
 
 
 
-
-
 include_once("assets/fonksiyon.php"); $yonetim = new yonetim();
 $yonetim->kontrolet("ind");
 
 
 
-//imdat
 
 
 ?>
