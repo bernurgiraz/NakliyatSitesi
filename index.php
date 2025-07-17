@@ -46,7 +46,7 @@ $sinif=new kurumsal;
 
 
 
-
+<!---aaaa--->
 
 
 
