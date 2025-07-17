@@ -114,7 +114,7 @@ class yonetim {
                  </div>
              </div>
 
-              <!--*******************-->
+              <!--****************** sdf*-->
 
                   <div class="col-lg-7 mx-auto border">
                 <div class="row">
