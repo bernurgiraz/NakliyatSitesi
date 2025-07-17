@@ -64,7 +64,6 @@ $sinif=new kurumsal;
     <i class="fa fa-phone"></i><?php echo $sinif->telno; ?>    
     
     </div>    
-    <div class="social-links float-center">    
     <a href="<?php echo $sinif->tvit; ?>" class="twitter"><i class="fa fa-twitter"></i></a>
      <a href="<?php echo $sinif->face; ?>" class="facebook"><i class="fa fa-facebook"></i></a>
       <a href="<?php echo $sinif->ints; ?>" class="instagram"><i class="fa fa-instagram"></i></a> 
@@ -73,6 +72,7 @@ $sinif=new kurumsal;
 
 </section> 
 
+<!--yenilik-->
 
 <!-- header -->
 
