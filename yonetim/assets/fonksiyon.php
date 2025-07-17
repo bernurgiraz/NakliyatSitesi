@@ -37,7 +37,7 @@ class yonetim {
 
    function siteayar($baglanti) {
 
-    $sonuc=$this->sorgum($baglanti,"select * from ayarlar",1); //this yerine self : de olur.
+    $sonuc=$this->sorgum($baglanti,"select * from ayarlar",1); //this yerine self : de olur. mu
 
     if($_POST) :
 
