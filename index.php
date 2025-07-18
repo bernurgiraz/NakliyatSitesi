@@ -15,20 +15,16 @@ $sinif=new kurumsal; ?>
 <meta name="owner" content="<?php echo $sinif->metaown; ?>" />
 <meta name="copyright" content="<?php echo $sinif->metacopy; ?>" />
 
-<<<<<<< HEAD
 
 
     <!-- merhaba -->
 
 
+   <!-- deneme2 -->
 
 
 
 
-
-=======
- <!---git deneme ---->
->>>>>>> 394307c86921507e72e526053043c143fc1abb6d
 
 
   <!-- Fontlar -->
