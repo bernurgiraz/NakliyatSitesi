@@ -37,7 +37,7 @@ class yonetim {
 
    function siteayar($baglanti) {
 
-    $sonuc=$this->sorgum($baglanti,"select * from ayarlar",1); //this yerine self : de olur.
+    $sonuc=$this->sorgum($baglanti,"select * from ayarlar",1); //this yerine self : de olur. mu
 
     if($_POST) :
 
@@ -114,7 +114,7 @@ class yonetim {
                  </div>
              </div>
 
-              <!--*******************-->
+              <!--****************** sdf*-->
 
                   <div class="col-lg-7 mx-auto border">
                 <div class="row">
@@ -129,7 +129,7 @@ class yonetim {
 
              
 
-              <!--*******************-->
+              <!--****************** dfdf*-->
               <!--*******************-->
 
                   <div class="col-lg-7 mx-auto border">
