@@ -15,7 +15,7 @@ $sinif=new kurumsal; ?>
 <meta name="owner" content="<?php echo $sinif->metaown; ?>" />
 <meta name="copyright" content="<?php echo $sinif->metacopy; ?>" />
 
-
+ <!---git deneme ---->
 
 
   <!-- Fontlar -->
