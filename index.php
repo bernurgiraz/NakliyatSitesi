@@ -17,7 +17,7 @@ $sinif=new kurumsal; ?>
 
 
 
-    
+    <!-- merhaba -->
 
 
 
