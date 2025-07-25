@@ -87,7 +87,7 @@ $sinif=new kurumsal; ?>
         
         <nav id="nav-menu-container">
         <ul class="nav-menu">        
-        <li class="menu-active"><a href="#body">giriş</a></li>
+        <li class="menu-active"><a href="#body">Giriş</a></li>
         <li><a href="#hakkimizda">Hakkımızda</a></li>
         <li><a href="#hizmetler">Hizmetlerimiz</a></li>
         <li><a href="#filo">Araç Filomuz</a></li>
@@ -220,11 +220,10 @@ $sinif=new kurumsal; ?>
 
 			<div class="section-header">
         <h2>İletişim</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscingLorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscingLorem ipsum dolor sit amet, consectetur adipiscing </p>
+         <p><?php echo $sinif->iletisimbaslik; ?></p>
    		 </div>
          
          <div class="row contact-info">
-         
          <div class="col-md-4">
          <div class="contact-address">
          <i class="ion-ios-location-outline"></i>
@@ -312,7 +311,7 @@ $sinif=new kurumsal; ?>
 
 <div class="container">
 <div class="copyright">
-2019 &copy; Copyright <strong>Udemy</strong>
+2019 &copy; Copyright <strong>Nakliyat</strong>
 </div>
 <div class="credits">
 <?php echo $sinif->metaown; ?>
